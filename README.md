@@ -11,16 +11,16 @@ A collection of 30 programming projects designed to build fundamental programmin
 | Detail | Information |
 |:---|:---|
 | Total Projects | 30 |
-| Completed | 0 / 30 |
+| Completed | 4 / 30 |
 | Current Level | Beginner |
 | Main Language | C |
 | Project Type | Programming Fundamentals |
 
 ## Progress
 
-**Overall Progress: 0%**
+**Overall Progress: 13.3%**
 
-`[░░░░░░░░░░] 0%`
+`[█░░░░░░░░░] 13.3%`
 
 - [ ] Beginner (01–10)
 - [ ] Intermediate (11–20)
@@ -36,10 +36,10 @@ Focus: Understanding programming fundamentals, variables, data types, conditions
 
 | # | Project | Description | Difficulty | Status |
 |:--:|---|---|:--:|:--:|
-| 01 | Calculator | Perform basic arithmetic operations. | ⭐ | [ ] |
-| 02 | Student Grade Calculator | Calculate grades based on student scores. | ⭐ | [ ] |
-| 03 | Number Analyzer | Analyze numbers using conditional statements. | ⭐ | [ ] |
-| 04 | Multiplication Table | Generate multiplication tables using loops. | ⭐ | [ ] |
+| 01 | Calculator | Perform basic arithmetic operations. | ⭐ | [x] |
+| 02 | Student Grade Calculator | Calculate grades based on student scores. | ⭐ | [x] |
+| 03 | Number Analyzer | Analyze numbers using conditional statements. | ⭐ | [x] |
+| 04 | Multiplication Table | Generate multiplication tables using loops. | ⭐ | [x] |
 | 05 | Coming Soon | To be announced. | ⭐ | [ ] |
 | 06 | Coming Soon | To be announced. | ⭐ | [ ] |
 | 07 | Coming Soon | To be announced. | ⭐ | [ ] |
