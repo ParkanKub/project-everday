@@ -41,7 +41,7 @@ Focus: Understanding programming fundamentals, variables, data types, conditions
 | 03 | Number Analyzer | Analyze numbers using conditional statements. | ⭐ | [x] |
 | 04 | Multiplication Table | Generate multiplication tables using loops. | ⭐ | [x] |
 | 05 | Sum of Numbers | To be announced. | ⭐ | [x] |
-| 06 | Coming Soon | To be announced. | ⭐ | [ ] |
+| 06 | Factorial Calculator | To be announced. | ⭐ | [x] |
 | 07 | Coming Soon | To be announced. | ⭐ | [ ] |
 | 08 | Coming Soon | To be announced. | ⭐ | [ ] |
 | 09 | Coming Soon | To be announced. | ⭐ | [ ] |
